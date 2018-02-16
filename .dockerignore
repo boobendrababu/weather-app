@@ -1,0 +1,23 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+.docker
+
+
+# Node & ESLint
+node_modules
+.eslintrc
+.eslintrc.js
+.flowconfig
+npm-debug.log
+
+db/*.sqlite3
+db/*.sqlite3-journal
+log/*
+tmp/*
+
+README.rdoc
